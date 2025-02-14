@@ -14,9 +14,8 @@
 Robert Cherkas
 - 👋 Hi, I’m @Robert-Cherkas
 - 👀 I’m interested in Computer Science, Aerospace Engineering, Phyciscs, and Astronomy
-- 🌱 I’m currently learning Java, and HTML
-- 💞️ I'm not currently looking to colaborate on any projects since I am still learing
-- 📫 I can be reached through my email: rtcheraks@gmail.com
+- 🌱 I’m currently learning C, Web Development, and Engineering
+- 💞️ I'm open to collaboration wherever possible
 
 <!---
 Robert-Cherkas/Robert-Cherkas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
